@@ -22,6 +22,9 @@ export default function Home() {
         <h5>Tools: </h5>
         <p>GitHub, Git, Heroku</p>
       </div>
+      <div>
+        <h3>Download my resume</h3>
+      </div>
     </div>
   )
 }
