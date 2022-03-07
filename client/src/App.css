@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin&display=swap");
+
 .App {
   text-align: center;
-  /* background-color: aqua; */
+  background-color: #8aecff;
+  font-family: "Cabin", sans-serif;
 }
