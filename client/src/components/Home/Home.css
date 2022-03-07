@@ -13,3 +13,18 @@
   margin-left: 200px;
   margin-right: 200px;
 }
+
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skills {
+  display: flex;
+  margin-top: 0px;
+}
+
+p {
+  margin-left: 20px;
+}

@@ -17,3 +17,8 @@
   opacity: 1;
   transform: scale(1.03);
 }
+
+.link-div {
+  display: flex;
+  flex-direction: column;
+}
