@@ -5,8 +5,8 @@ import './NavBar.css';
 
 export default function NavBar() {
   return (
-    <div>
-      <h1>Laura Bowman</h1>
+    <div className='nav'>
+      <h1 className='name-title'>Laura Bowman</h1>
       
     </div>
   )
