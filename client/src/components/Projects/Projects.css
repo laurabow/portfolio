@@ -1,0 +1,19 @@
+.card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  margin: 10px 40px;
+}
+
+.card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 10px 20px;
+  opacity: 0.8;
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  opacity: 1;
+  transform: scale(1.03);
+}
