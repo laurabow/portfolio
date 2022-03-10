@@ -5,3 +5,15 @@
   background-color: #8aecff;
   font-family: "Cabin", sans-serif;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
