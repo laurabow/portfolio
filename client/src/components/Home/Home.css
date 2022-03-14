@@ -28,6 +28,11 @@
   opacity: 0.8;
 }
 
+.github-linkedin img {
+  height: 30px;
+  padding: 5px;
+}
+
 .skills-container {
   display: flex;
   flex-direction: column;

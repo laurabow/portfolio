@@ -1,6 +1,7 @@
 import React from 'react'
 import Projects from '../Projects/Projects'
 import pdf from "../../assets/pdf/laura-bowman-resume.pdf";
+import { Github, linkedin } from '../../assets/index';
 import './Home.css';
 
 export default function Home() {
@@ -17,6 +18,22 @@ export default function Home() {
             Download my Resume
           </button>
         </a>
+      </div>
+      <div className='github-linkedin'>
+        <a
+            href='https://github.com/laurabow'
+            target="_blank"
+            rel='noopener noreferrer'
+          >
+            <img src={Github} alt='github' />
+          </a>
+          <a
+            href='https://www.linkedin.com/in/laura-kappa-bowman/'
+            target="_blank"
+            rel='noopener noreferrer'
+          >
+            <img src={linkedin} alt='linkedin' />
+          </a>
       </div>
       <Projects />
       <div className='skills-container'>
