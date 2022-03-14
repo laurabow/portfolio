@@ -35,7 +35,7 @@ export default function Home() {
         </div>
         <br />
         <div className='skills'>
-          <h4>Tools: </h4>
+          <p><strong>Tools: </strong></p>
           <p>GitHub, Git, Heroku</p>
         </div>
       </div>
