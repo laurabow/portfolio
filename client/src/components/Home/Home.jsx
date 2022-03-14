@@ -13,7 +13,9 @@ export default function Home() {
           href={pdf}
           target="_blank"
           rel="noreferrer">
-          Download my Resume
+          <button className='resume-btn'>
+            Download my Resume
+          </button>
         </a>
       </div>
       <Projects />
