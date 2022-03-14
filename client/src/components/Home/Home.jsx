@@ -18,7 +18,7 @@ export default function Home() {
       </div>
       <Projects />
       <div className='skills-container'>
-        <h2>Skills</h2>
+        <h2 className='skills-title'>Skills</h2>
         <div className='skills'>
           <p><strong>Languages: </strong></p>
           <p>JavaScript, Ruby, Node.js, HTML, CSS</p>
