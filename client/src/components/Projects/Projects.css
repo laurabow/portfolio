@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   column-gap: 10px;
-  margin: 10px 40px;
+  margin: 50px 40px;
 }
 
 .card {
@@ -23,3 +23,24 @@
   display: flex;
   flex-direction: column;
 }
+
+@media only screen and (max-width: 1200px) {
+  /*Tablets [601px -> 1200px]*/
+  .card-container {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 10px;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .card-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* @media only screen and (max-width: 450px) { */
+/*Small smartphones*/
+/* .homepage-intro { */
+/* margin: 20px 50px 50px 50px; */
+/* } */
+/* } */

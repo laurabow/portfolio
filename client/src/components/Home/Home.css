@@ -24,6 +24,10 @@
   margin-bottom: 20px;
 }
 
+.resume-btn:hover {
+  opacity: 0.8;
+}
+
 .skills-container {
   display: flex;
   flex-direction: column;
@@ -41,4 +45,18 @@
 
 p {
   margin-left: 20px;
+}
+
+@media only screen and (max-width: 750px) {
+  .brand {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .brand {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
 }
