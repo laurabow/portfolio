@@ -2,8 +2,11 @@
   background-color: #f9f9f9;
   margin-top: 0;
   display: flex;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
 }
 
 .name-title {
-  padding: 10px 20px;
+  padding: 0px 20px;
 }
