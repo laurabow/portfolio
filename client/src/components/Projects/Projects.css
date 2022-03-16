@@ -19,6 +19,15 @@
   transform: scale(1.03);
 }
 
+.language {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.description {
+  margin-top: 5px;
+}
+
 .link-div {
   display: flex;
   flex-direction: column;

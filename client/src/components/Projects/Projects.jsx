@@ -20,9 +20,9 @@ export default function Projects() {
               rel='noopener noreferrer'>Deployed Link</a>
           </div>
           <br />
-          <p>React | Ruby on Rails | Material-UI</p>
+          <p className='language'>React | Ruby on Rails | Material-UI</p>
           <br />
-          <p>Party Finder is an online platform for table top roleplaying game players to find games to play in and for game masters to find players for their games.</p>
+          <p className='description'>Party Finder is an online platform for table top roleplaying game players to find games to play in and for game masters to find players for their games.</p>
         </div>
         <div className='card'>
           <h4>Caves and Wyverns</h4>
@@ -37,9 +37,9 @@ export default function Projects() {
               rel='noopener noreferrer'>Deployed Link</a>
             </div>
           <br />
-          <p>JavaScript | React</p>
+          <p className='language'>JavaScript | React</p>
           <br />
-          <p>Cave and Wyverns is a dice game made with react. Users roll a dice and if they win, points get taken from the health points of the monster, if they lose the roll they lose health points.</p>
+          <p className='description'>Cave and Wyverns is a dice game made with react. Users roll a dice and if they win, points get taken from the health points of the monster, if they lose the roll they lose health points.</p>
         </div>
         <div className='card'>
           <h4>Volunteer App</h4>
@@ -58,9 +58,9 @@ export default function Projects() {
               rel='noopener noreferrer'>Deployed Link</a>
             </div>
           <br />
-          <p>React | Express | Bootstrap</p>
+          <p className='language'>React | Express | Bootstrap</p>
           <br />
-          <p>The Volunteer App is an app where non-profit organizations can post events that need volunteers. It is also a place for volunteers to sign up to help out at those events. This was a group project.</p>
+          <p className='description'>The Volunteer App is an app where non-profit organizations can post events that need volunteers. It is also a place for volunteers to sign up to help out at those events. This was a group project.</p>
         </div>
         <div className='card'>
           <h4>Recipe App</h4>
@@ -75,9 +75,9 @@ export default function Projects() {
               rel='noopener noreferrer'>Deployed Link</a>
             </div>
           <br />
-          <p>JavaScript | HTML | CSS</p>
+          <p className='language'>JavaScript | HTML | CSS</p>
           <br />
-          <p>The Recipe App is an app that gives you a random recipe at the click of a button!</p>
+          <p className='description'>The Recipe App is an app that gives you a random recipe at the click of a button!</p>
         </div>
       </div>
     </div>
