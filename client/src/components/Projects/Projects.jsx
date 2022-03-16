@@ -19,7 +19,9 @@ export default function Projects() {
               target="_blank"
               rel='noopener noreferrer'>Deployed Link</a>
           </div>
-          <br/>
+          <br />
+          <p>React | Ruby on Rails | Material-UI</p>
+          <br />
           <p>Party Finder is an online platform for table top roleplaying game players to find games to play in and for game masters to find players for their games.</p>
         </div>
         <div className='card'>
@@ -34,7 +36,9 @@ export default function Projects() {
               target="_blank"
               rel='noopener noreferrer'>Deployed Link</a>
             </div>
-          <br/>
+          <br />
+          <p>JavaScript | React</p>
+          <br />
           <p>Cave and Wyverns is a dice game made with react. Users roll a dice and if they win, points get taken from the health points of the monster, if they lose the roll they lose health points.</p>
         </div>
         <div className='card'>
@@ -53,7 +57,9 @@ export default function Projects() {
               target="_blank"
               rel='noopener noreferrer'>Deployed Link</a>
             </div>
-          <br/>
+          <br />
+          <p>React | Express | Bootstrap</p>
+          <br />
           <p>The Volunteer App is an app where non-profit organizations can post events that need volunteers. It is also a place for volunteers to sign up to help out at those events. This was a group project.</p>
         </div>
         <div className='card'>
@@ -68,7 +74,9 @@ export default function Projects() {
               target="_blank"
               rel='noopener noreferrer'>Deployed Link</a>
             </div>
-          <br/>
+          <br />
+          <p>JavaScript | HTML | CSS</p>
+          <br />
           <p>The Recipe App is an app that gives you a random recipe at the click of a button!</p>
         </div>
       </div>
