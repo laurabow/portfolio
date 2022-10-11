@@ -9,6 +9,7 @@ export default function Projects() {
       <h2>Projects</h2>
       <div className='card-container'>
         <div className='card'>
+          <img className='dice' src={D20} alt="red d 20" height='10px' />
           <h4>Party Finder</h4>
           <div className='link-div'>
             <a
