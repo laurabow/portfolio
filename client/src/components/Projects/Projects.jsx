@@ -1,5 +1,6 @@
 import React from 'react'
 // import { Link } from 'react-router-dom';
+import { D20 } from '../../assets/index.js';
 import './Projects.css';
 
 export default function Projects() {
