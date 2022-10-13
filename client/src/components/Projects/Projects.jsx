@@ -43,7 +43,7 @@ export default function Projects() {
           <br />
           <p className='description'>Cave and Wyverns is a dice game made with react. Users roll a dice and if they win, points get taken from the health points of the monster, if they lose the roll they lose health points.</p>
         </div>
-        {/* <div className='card'>
+        <div className='card'>
           <h4>Volunteer App</h4>
           <div className='link-div'>
             <a
@@ -63,7 +63,7 @@ export default function Projects() {
           <p className='language'>React | Express | Bootstrap</p>
           <br />
           <p className='description'>The Volunteer App is an app where non-profit organizations can post events that need volunteers. It is also a place for volunteers to sign up to help out at those events. This was a group project.</p>
-        </div> */}
+        </div>
         <div className='card'>
           <h4>Recipe App</h4>
           <div className='link-div'>
